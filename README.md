@@ -11,6 +11,6 @@ Aplicativo criado na disciplina de Dipositivos Móveis, oferecida pela Universid
 
 ## Informações da Execução
 
-Este aplicativo foi criado no formato desktop em um ambiente linux.
+Este programa foi criado como um aplicativo desktop em ambiente linux.
 
 ## Imagens
